@@ -5,7 +5,7 @@
 
 <img src="https://picsum.photos/400/400" >
 
-<p>About puslapio turinys</p>
+<p>About puslapio turinys 2</p>
 <!-- Čia apie puslapio vidinė dalis -->
 
 <?php include "footer.php" ?>
