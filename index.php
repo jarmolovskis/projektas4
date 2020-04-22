@@ -8,6 +8,7 @@
     <li>Caged the Elephant</li>
     <li>Metalics</li>
     <li>Low Roar</li>
+    <li>Linkin Park</li>
   </ul>
 
   <!-- Čia pagrindinio puslapio vidinė dalis -->
